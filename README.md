@@ -16,12 +16,14 @@ which book and genre are giving more revenue and grow more sales in next year.
 -Which genre generates the most revenue?
 -Which book have the highest revenue and what are their ratings?
 -Which author have the highest revenue and what are the ratings?
+## Dashboard interaction
+- <a href="https://github.com/Rehana-H-Shaikh/Data-Analysis-Dashboard/blob/main/bookmarked%20dashboard.PNG">Bookmarked Dashboard</a>
 ## Process
 -Verify data for missing values and outliers and sort out them.
 -Made sure data is consistence and clean with respect to data type, data format and values used.
 -Visualize the data for better understanding.
 ## Dashboard
-- <a href="https://github.com/Rehana-H-Shaikh/Data-Analysis-Dashboard/blob/main/bookmarked%20dashboard.PNG">Bookmarked Dashboard</a>
+<img width="556" alt="bookmarked dashboard" src="https://github.com/user-attachments/assets/fde7e859-8de2-4067-aef1-aaed97fbfde9" />
 ## Project insights
 - The revenue is highest between the year 1999 to 2008.
 - Adventure genre have the highest revenue.
@@ -33,3 +35,4 @@ which book and genre are giving more revenue and grow more sales in next year.
 To improve the sales of Bookmarked store, a strategic marketing plan focused on Romance and Adventure genre should be implemented.
 This demographic represents a key consumer segment, as the Romance and Adventure are the genres commonly popular in youngsters.
 This approach should include targeted digital marketing campaign and personalized promotions to capture their attention.
+
