@@ -18,13 +18,13 @@ which book and genre are giving more revenue and grow more sales in next year.
 -Which author have the highest revenue and what are the ratings?
 ## Dashboard interaction
 - <a href="https://github.com/Rehana-H-Shaikh/Data-Analysis-Dashboard/blob/main/bookmarked%20dashboard.PNG">Bookmarked Dashboard</a>
-
 ## Process
 -Verify data for missing values and outliers and sort out them.
 -Made sure data is consistence and clean with respect to data type, data format and values used.
 -Visualize the data for better understanding.
 ## Dashboard
 <img width="556" alt="bookmarked dashboard" src="https://github.com/user-attachments/assets/fde7e859-8de2-4067-aef1-aaed97fbfde9" />
+
 ## Project insights
 - The revenue is highest between the year 1999 to 2008.
 - Adventure genre have the highest revenue.
