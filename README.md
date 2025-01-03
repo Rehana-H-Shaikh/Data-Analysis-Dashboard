@@ -18,6 +18,7 @@ which book and genre are giving more revenue and grow more sales in next year.
 -Which author have the highest revenue and what are the ratings?
 ## Dashboard interaction
 - <a href="https://github.com/Rehana-H-Shaikh/Data-Analysis-Dashboard/blob/main/bookmarked%20dashboard.PNG">Bookmarked Dashboard</a>
+
 ## Process
 -Verify data for missing values and outliers and sort out them.
 -Made sure data is consistence and clean with respect to data type, data format and values used.
